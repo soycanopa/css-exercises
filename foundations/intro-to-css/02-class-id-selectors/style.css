@@ -2,3 +2,17 @@
     background-color: pink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+#dos {
+    color: blue;
+    font-size: 36px;
+}
+
+.impar.tres {
+    font-size: 24px;
+}
+
+#cuatro {
+    background-color: #80FF80;
+    font-size: 24px;
+}
