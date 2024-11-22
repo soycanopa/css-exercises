@@ -1,18 +1,18 @@
-# CSS Methods
+# Métodos CSS
 
-This final exercise for CSS Foundations is going to give you a closer look at the cascade, in particular specificity and rule order. Both the HTML and CSS files are filled out for you, so instead of adding rules yourself, you will simply be editing what is provided.
+Este ejercicio final para Fundamentos de CSS te brindará una mirada más cercana a la cascada, en particular a la especificidad y el orden de las reglas. Tanto los archivos HTML como CSS están completados para ti, así que en lugar de agregar reglas tú mismo, simplemente editarás lo que se proporciona.
 
-There are a few elements that have some sort of specificity or rule order issue in the provided CSS file. It's up to you to figure out what issue is affecting an element, and how to fix it. You can edit the CSS file by adding, removing, or editing selectors for a declaration block, or by moving declaration blocks around. **You should not edit the HTML file or any of the actual styles in the CSS**.
+Hay algunos elementos que tienen algún tipo de problema de especificidad u orden de reglas en el archivo CSS proporcionado. Depende de ti averiguar qué problema está afectando a un elemento y cómo solucionarlo. Puedes editar el archivo CSS agregando, eliminando o modificando selectores para un bloque de declaración, o moviendo bloques de declaración. **No debes editar el archivo HTML ni ninguno de los estilos reales en el CSS**.
 
-There are multiple ways to solve this exercise, so we have provided some of the possible solutions for each element.
+Hay múltiples maneras de resolver este ejercicio, por lo que hemos proporcionado algunas de las posibles soluciones para cada elemento.
 
-Issues with the cascade can be the bane of their existence for many when it comes to CSS. While you won't become a cascade expert from this exercise alone, and there are other ways to deal with these issues, it is still super helpful to see how these issues affect our final styles and why it's important to order rules carefully.
+Los problemas con la cascada pueden ser el bane de la existencia de muchos cuando se trata de CSS. Aunque no te convertirás en un experto en cascadas solo con este ejercicio, y hay otras formas de lidiar con estos problemas, sigue siendo muy útil ver cómo estos problemas afectan nuestros estilos finales y por qué es importante ordenar las reglas cuidadosamente.
 
-## Desired Outcome
+## Resultado Deseado
 
-![desired outcome](./desired-outcome.png)
+![resultado deseado](./desired-outcome.png)
 
-### Self Check
+### Autoevaluación
 
-- Did you make sure to not edit the HTML file?
-- If you added selectors to the CSS, do they target a valid HTML element?
+- ¿Te aseguraste de no editar el archivo HTML?
+- Si agregaste selectores al CSS, ¿apuntan a un elemento HTML válido?
